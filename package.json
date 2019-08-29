@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node cron.js",
+    "test": "nodemon cron.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
